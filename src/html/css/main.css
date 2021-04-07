@@ -1432,38 +1432,14 @@ table td,table th {
     text-align:left
 }
 .c10 {
-    border-right-style:solid;
-    padding:5pt 5pt 5pt 5pt;
-    border-bottom-color:#ffffff;
-    border-top-width:1pt;
-    border-right-width:1pt;
-    border-left-color:#ffffff;
+    padding:0 0 31pt 5pt;
     vertical-align:top;
-    border-right-color:#ffffff;
-    border-left-width:1pt;
-    border-top-style:solid;
-    border-left-style:solid;
-    border-bottom-width:1pt;
     width:382.5pt;
-    border-top-color:#ffffff;
-    border-bottom-style:solid
 }
 .c0 {
-    border-right-style:solid;
-    padding:5pt 5pt 5pt 5pt;
-    border-bottom-color:#ffffff;
-    border-top-width:1pt;
-    border-right-width:1pt;
-    border-left-color:#ffffff;
+    padding:10pt 5pt 5pt 5pt;
     vertical-align:top;
-    border-right-color:#ffffff;
-    border-left-width:1pt;
-    border-top-style:solid;
-    border-left-style:solid;
-    border-bottom-width:1pt;
-    width:104.2pt;
-    border-top-color:#ffffff;
-    border-bottom-style:solid
+    width:85pt;
 }
 .c37 {
     margin-left:25pt;
@@ -1530,15 +1506,13 @@ table td,table th {
 }
 .c1 {
     padding-top:12pt;
-    padding-bottom:12pt;
     line-height:1.15;
     orphans:2;
     widows:2;
     text-align:left
 }
 .c33 {
-    padding-top:12pt;
-    padding-bottom:12pt;
+    padding-top:9pt;
     line-height:1.0;
     orphans:2;
     widows:2;
@@ -1567,7 +1541,7 @@ table td,table th {
 }
 .c48 {
     background-color:#ffffff;
-    font-size:25pt;
+    font-size:26pt;
     font-family:"Gothic A1";
     color:#424242;
     font-weight:700
@@ -1680,6 +1654,7 @@ table td,table th {
     font-family:"Arial"
 }
 .c107 {
+    width: 100%;
     border-spacing:0;
     border-collapse:collapse;
     margin-right:auto
@@ -1808,6 +1783,7 @@ table td,table th {
     font-family:"Gothic A1";
     font-weight:400;
     line-height: 23px;
+    word-spacing: 5px;
 }
 .c65 {
     background-color:#38761d;
@@ -1865,19 +1841,21 @@ table td,table th {
     font-size:22pt;
     font-family:"Gothic A1"
 }
-.c63 {
+.layer {
     position: absolute;
     background-color: #ffffff;
-    padding: 20pt 72pt 72pt 72pt;
+    padding: 20px 20px 20px 20px;
     width: 100%;
-    max-width: 50rem;
+    max-width: 48rem;
     margin: auto;
-    left: 22%;
+    left: 25%;
 }
 .c51 {
-    font-size:19pt;
+    word-spacing: 1px;
+    line-height: normal;
+    font-size:20pt;
     font-family:"Gothic A1";
-    font-weight:600
+    font-weight:600;
 }
 .c86 {
     background-color:#073763;
@@ -1960,6 +1938,8 @@ table td,table th {
     margin:0
 }
 .c72 {
+    font-size: 11pt;
+    word-spacing: 1px;
     background-color:#0b5394;
     color:#f3f3f3
 }
@@ -2157,3 +2137,6 @@ h6 {
      height: 165px;
      position: absolute;
  }
+.c156 {
+    font-weight: 600;
+}
