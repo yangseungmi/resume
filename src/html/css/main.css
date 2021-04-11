@@ -1842,13 +1842,11 @@ table td,table th {
     font-family:"Gothic A1"
 }
 .layer {
-    position: absolute;
+    margin: 0 auto;
+    width: 760px;
     background-color: #ffffff;
-    padding: 20px 20px 20px 20px;
-    width: 100%;
-    max-width: 48rem;
-    margin: auto;
-    left: 25%;
+    padding-top: 5px;
+    padding-bottom: 25px;
 }
 .c51 {
     word-spacing: 1px;
@@ -2023,6 +2021,10 @@ table td,table th {
 }
 .c35 {
     color:#999999
+}
+.c113 {
+    width: 37px;
+    padding: 12px 0 0 6px;
 }
 .title {
     padding-top:0pt;
