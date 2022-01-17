@@ -1452,6 +1452,11 @@ table td,table th {
     text-align:left;
     margin-right:-11pt
 }
+.c377 {
+    list-style-type: none;
+    float: left;
+    margin-right: 0pt;
+}
 .c46 {
     color:#212529;
     font-weight:400;
